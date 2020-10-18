@@ -8,7 +8,7 @@ As an option it is possible to use squares or circles as a pattern to create a n
 
 It is a Model-View-Controller project.
 As a model, there is a  ImgProcessor class which works with an image using  SixLaboSr.ImageSharper.
-This class is used as a singletone, so we create it only once when application starts. Than it  processes 
+This class is used as a singletone, so we create it only once when application starts. Then it  processes 
 and reloads different images.
 
 Controller(HomeController) receives data(a loaded picture and some parameters) from a view, calls ImgProcessor 
