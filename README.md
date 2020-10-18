@@ -3,7 +3,7 @@ This poject is example of using Vue, axios and SixLaboSr.ImageSharper in an MVC 
 
 
 In fact, it receives a picture and pixelates  it into a new one.
-As an option it is possible to use squares or circles to fill a new image.
+As an option it is possible to use squares or circles as a pattern to create a new image.
 
 
 It is a Model-View-Controller project.
